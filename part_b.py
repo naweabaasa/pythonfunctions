@@ -3,7 +3,7 @@
 # return num * num 
 
 def square(num):
-    return(num*2)
+    return(num**2)
 print(square(4))
 
 # 2.Write a function that takes two numbers and returns their average. 
